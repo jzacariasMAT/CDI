@@ -1,7 +1,4 @@
 # CDI
-Material de Curso de Cálculo Diferencial.  
+Repositorio para materiales del curso de Cálculo Diferencial UPEMOR
+Cuatrimestre I2026.  
 
-- Diapositivas
-- Tareas
-- Listas de ejercicios
-- Apuntes asesorías
